@@ -7,7 +7,7 @@ int* game_with_number(int arr[], int n)
     
     for (int i=0;i<n;i++){
         if (i+1 != n)
-            a[i] = arr[i] ^ arr[i+1];
+            a[i] = arr[i] | arr[i+1];
         else 
             a[i] = arr[i];
     }
