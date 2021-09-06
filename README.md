@@ -1,7 +1,5 @@
 # Complete Java + DSA Bootcamp Syllabus
 
-## NOTE: 
-
 ## Lectures
 - [Complete Git & GitHub Course](https://youtu.be/apGV9Kg7ics)
 - [Introduction to Programming](https://youtu.be/wn49bJOYAZM)
